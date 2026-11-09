@@ -2,7 +2,6 @@ MouseShift_AHK.ini
 MouseShift.ini
 *.log
 *.bak
-*.exe
 *.zip
 .DS_Store
 Thumbs.db
